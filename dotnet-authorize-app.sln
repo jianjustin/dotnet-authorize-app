@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "authapp", "authapp\authapp.csproj", "{C362F962-E000-4969-9730-995605CF6BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web-api", "web-api\web-api.csproj", "{8CDC9C49-FFFD-4F69-9846-3F13BDD499A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +15,9 @@ Global
 		{C362F962-E000-4969-9730-995605CF6BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C362F962-E000-4969-9730-995605CF6BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C362F962-E000-4969-9730-995605CF6BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CDC9C49-FFFD-4F69-9846-3F13BDD499A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDC9C49-FFFD-4F69-9846-3F13BDD499A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDC9C49-FFFD-4F69-9846-3F13BDD499A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDC9C49-FFFD-4F69-9846-3F13BDD499A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
